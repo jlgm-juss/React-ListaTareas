@@ -7,6 +7,8 @@ https://tp1-react-ejercicio-4y5.netlify.app/
 ### Librerias Utilizadas
 - Bootstrap
 - React-Bootstrap
+- React
+- Node JS
 
 
 ### Autor
